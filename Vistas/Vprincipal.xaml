@@ -9,7 +9,10 @@
             TextColor="Red"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
-        
-        
+        <Button x:Name="btnEjemplo" 
+                Text="Ejemplo"
+                Clicked="btnEjemplo_Clicked"/>
+
+
     </VerticalStackLayout>
 </ContentPage>

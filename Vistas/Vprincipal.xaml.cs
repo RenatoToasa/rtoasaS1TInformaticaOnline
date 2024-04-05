@@ -6,4 +6,9 @@ public partial class Vprincipal : ContentPage
 	{
 		InitializeComponent();
 	}
+
+    private void btnEjemplo_Clicked(object sender, EventArgs e)
+    {
+
+    }
 }
